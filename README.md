@@ -262,8 +262,6 @@ Task1-Data-Cleaning/
 │
 ├── netflix_titles.csv
 ├── netflix_cleaned.csv
-├── task1.ipynb
-├── task1.py
 └── README.md
 ```
 
